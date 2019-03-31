@@ -1,5 +1,9 @@
 ## notes on Scrum
 
+## Retrospectives 
+
+
+
 ```text
 We live in a world that is broken. For those who believe that there must be a more
 efficient way for people to get things done, here from Scrum pioneer Jeff Sutherland
