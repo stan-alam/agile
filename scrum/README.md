@@ -1,8 +1,26 @@
 ## notes on Scrum
 
-## Retrospectives 
+## Retrospectives
 
+<a>
+  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%200.png" width="80%" height="80%">
+</a>
 
+<a>
+  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%201.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%202.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%203.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%204.png" width="80%" height="80%">
+</a>
 
 ```text
 We live in a world that is broken. For those who believe that there must be a more
