@@ -22,6 +22,14 @@
   <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%204.png" width="80%" height="80%">
 </a>
 
+<a>
+  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%205.png" width="80%" height="80%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%206.png" width="80%" height="80%">
+</a>
+
 ```text
 We live in a world that is broken. For those who believe that there must be a more
 efficient way for people to get things done, here from Scrum pioneer Jeff Sutherland
