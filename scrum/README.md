@@ -39,15 +39,15 @@
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%209.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/agile/blob/develop/scrum/retrospctv/images/01/retrospecvs%20-%209.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%2010.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/agile/blob/develop/scrum/retrospctv/images/01/retrospecvs%20-%209.png" width="80%" height="80%">
 </a>
 
 <a>
-  <img src="https://github.com/stan-alam/agile/blob/master/scrum/retrospctv/images/01/retrospecvs%20-%2011.png" width="80%" height="80%">
+  <img src="https://github.com/stan-alam/agile/blob/develop/scrum/retrospctv/images/01/retrospecvs%20-%209.png" width="80%" height="80%">
 </a>
 
 ```text
